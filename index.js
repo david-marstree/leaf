@@ -2,6 +2,7 @@ const json = require('./lib/json');
 const number = require('./lib/number');
 
 module.exports = {
-  ...json,
-  ...number
+  isJSON: json.isJson,
+
+  numberFormat: number.numberFormat
 }
