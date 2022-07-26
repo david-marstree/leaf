@@ -1,6 +1,6 @@
 {
-  "name": "leaf",
-  "version": "1.0.0",
+  "name": "marstree-leaf",
+  "version": "1.0.3",
   "description": "nodejs usefull helper functions",
   "main": "index.js",
   "scripts": {
